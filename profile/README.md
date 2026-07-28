@@ -1,20 +1,20 @@
 # Sakeenah Wedding 🌸
 
-Platform undangan pernikahan digital islami yang elegan, modern, dan mandiri.
+Islamic digital wedding invitation platform.
 
-> Built and maintained by [@jawaracloud](https://github.com/jawaracloud).
-
----
-
-## 🏛️ Repositories
-
-- **[template](https://github.com/sakeenah-wedding/template)** — Desain/tema undangan pernikahan digital (guest-facing views).
-- **[design-system](https://github.com/sakeenah-wedding/design-system)** — Token desain bersama, aset visual (favicon, logo), dan tipografi.
+> Built by [@jawaracloud](https://github.com/jawaracloud).
 
 ---
 
-## 🎨 Visual Identity
+## Repositories
 
-Visual identity Sakeenah berlandaskan pada kesederhanaan, keanggunan, dan sentuhan warna romantis:
-- **Warna Utama:** `rose-500` (`#f43f5e`) melambangkan kebahagiaan dan cinta.
-- **Tipografi:** `Outfit` (sans-serif) untuk antarmuka yang bersih & modern + `Instrument Serif` (serif) untuk teks undangan yang elegan.
+- **[template](https://github.com/sakeenah-wedding/template)** — Wedding invitation themes (guest-facing pages).
+- **[design-system](https://github.com/sakeenah-wedding/design-system)** — Shared design tokens, brand assets, and fonts.
+
+---
+
+## Visual Identity
+
+- **Primary Color:** `rose-500` (`#f43f5e`) — warm and romantic.
+- **Fonts:** `Outfit` (sans, for UI) + `Instrument Serif` (serif, for headings).
+- **Style:** Clean, modern, soft.
